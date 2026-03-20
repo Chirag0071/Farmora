@@ -1,0 +1,21 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Punjab,Mohali,Kharar APMC,Onion,Other,Non-FAQ,2026-03-18,1500,2000,1800
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,Ginger(Green),Green Ginger,Local,2026-03-18,8500,9000,8750
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,Ashgourd,Gouard,Local,2026-03-18,2000,2200,2100
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,Cluster beans,Cluster Beans,Local,2026-03-18,3000,3000,3000
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,Brinjal,Other,Local,2026-03-18,3500,4000,3750
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,Lemon,Lemon,Local,2026-03-18,14000,16000,15000
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,Knool Khol,Knool Khol,Local,2026-03-18,3500,4000,3750
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,Chow Chow,Chow Chow,Local,2026-03-18,3000,3500,3250
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,Coconut,Coconut,Local,2026-03-18,5200,5800,5500
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Amla(Nelli Kai),Amla,Local,2026-03-18,6500,7000,6750
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Knool Khol,Knool Khol,Local,2026-03-18,3300,3500,3400
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Thondekai,Thondekai,Local,2026-03-18,5500,6000,5750
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Raddish,Raddish,Local,2026-03-18,1400,1600,1500
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Sweet Potato,Hosur Red,Local,2026-03-18,2300,2500,2400
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Coconut,Coconut,Local,2026-03-18,6000,6500,6250
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Green Chilli,Green Chilly,Local,2026-03-18,3800,4000,3900
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Tomato,Local,Local,2026-03-18,1200,1500,1350
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Coriander(Leaves),I Sort,Local,2026-03-18,4500,5000,4750
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,Raddish,Raddish,Local,2026-03-18,2500,2500,2500
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ) APMC,Onion,Bellary,Local,2026-03-18,2600,2600,2600
